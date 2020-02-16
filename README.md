@@ -4,7 +4,9 @@ A near 1:1 representation of the Ableton Push2 pad layout.
 
 ## What is this?
 ```
-Musicians who use traditional musical instruments write music on staff paper. Some bass players and guitar players use TAB sheets. Now musicians who use the Ableton Push have their own printable staff paper (of sorts).
+Musicians who use traditional musical instruments write music on staff paper. Some bass players 
+and guitar players use TAB sheets. Now musicians who use the Ableton Push have their own printable 
+staff paper (of sorts).
 ```
 
 ## What is included?
@@ -19,7 +21,8 @@ Musicians who use traditional musical instruments write music on staff paper. So
 ## Usage
 
 ```
-Download this printable grid and use it however you see fit. Sketch out chords, construct drum patterns, or write your own scales. Invent your own musical notation. Instead of tablature it could be PADlature!
+Download this printable grid and use it however you see fit. Sketch out chords, construct drum patterns, 
+or write your own scales. Invent your own musical notation. Instead of tablature it could be PADlature!
 ```
 
 ## License
